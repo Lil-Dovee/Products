@@ -1,0 +1,75 @@
+[
+    {
+        "id" : 1,
+        "name": "Waffle",
+        "nameWithAddon" : "Waffle with Berries",
+        "price": 6.50, 
+        "total-price" : " ",
+        "image": "/product-list-with-cart-main/product-list-with-cart-main/assets/images/image-waffle-desktop.jpg"
+    },
+    {
+        "id" : 2,
+        "name": "Crème Brûlée",
+        "nameWithAddon" : "Vanilla Bean Crème Brûlée",
+        "price": 7.00 ,
+        "total-price" : " ",
+        "image" : "/product-list-with-cart-main/product-list-with-cart-main/assets/images/image-creme-brulee-desktop.jpg"
+    },
+    {
+        "id" : 4,
+        "name": "Tiramisu",
+        "nameWithAddon" : "Classic Tiramisu",
+        "price": 4.00, 
+        "total-price" : "",
+        "image" : "product-list-with-cart-main/product-list-with-cart-main/assets/images/image-tiramisu-desktop.jpg "
+    },
+    {
+        "id" : 5,
+        "name" : "Baklava",
+        "nameWithAddon" : "Pistachio Baklava",
+        "price": 4.00, 
+        "image"  : "product-list-with-cart-main/product-list-with-cart-main/assets/images/image-baklava-desktop.jpg ",
+        "total-price": ""
+    },
+    {
+        "id" : 3,
+        "name" : "Macaron",
+        "nameWithAddon" : "Macaron Mix of Five",
+        "price": 8.00, 
+        "total-price" : " ",
+        "image": "product-list-with-cart-main/product-list-with-cart-main/assets/images/image-macaron-desktop.jpg"
+    },
+    {
+        "id" : 6,
+        "name": "Pie",
+        "nameWithAddon" : "Lemon Meringue Pie",
+        "price": 5.00, 
+        "total-price" : " ",
+        "image" : "product-list-with-cart-main/product-list-with-cart-main/assets/images/image-meringue-desktop.jpg"
+    },
+    {
+        "id" : 7,
+        "name": "Cake",
+        "nameWithAddon" : "Red Velvet Cake",
+        "price": 4.50, 
+        "total-price" : " ",
+        "image" : "product-list-with-cart-main/product-list-with-cart-main/assets/images/image-cake-desktop.jpg"
+    },
+    {
+        "id" : 8,
+        "name": "Brownie",
+        "nameWithAddon" : "Salted Caramel Brownie",
+        "price": 4.50, 
+        "total-price" : " ",
+        "image" : "product-list-with-cart-main/product-list-with-cart-main/assets/images/image-brownie-desktop.jpg"
+    },
+    {
+        "id" : 9,
+        "name": "Panna Cotta",
+        "nameWithAddon" : "Vanilla Panna Cotta",
+        "price": 6.50, 
+        "total-price" : " ",
+        "image" : "product-list-with-cart-main/product-list-with-cart-main/assets/images/image-panna-cotta-desktop.jpg"
+    }
+
+]
