@@ -78,7 +78,7 @@ body{
     height: 300px;
     border-radius: 12px;
     margin-top: 3em;
-    background-image: url(product-list-with-cart-main/product-list-with-cart-main/assets/images/illustration-empty-cart.svg);
+    background-image: url(images/illustration-empty-cart.svg);
     background-position: center;
     background-size: auto;
     background-repeat: no-repeat;
