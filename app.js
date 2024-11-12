@@ -20,7 +20,7 @@ const addDataToHTML = () => {
             newProduct.innerHTML = `
                 <img class="first-img" src="${product.image}" alt="">
                 <button class="addCart">
-                    <img src="/product-list-with-cart-main/product-list-with-cart-main/assets/images/icon-add-to-cart.svg" alt=""/>
+                    <img src="images/icon-add-to-cart.svg" alt=""/>
                     Add to Cart
                 </button>
                 <div class="content">
@@ -78,7 +78,7 @@ const addCartToHTML=() =>{
                          <div class="current-price">$${info.price.toFixed(2)}</div>
                          <div class="total-price">$${info.price*cart.quantity.toFixed(2)}</div>
                      </div>
-                     <button class="cancel" ><img src="product-list-with-cart-main/product-list-with-cart-main/assets/images/icon-remove-item.svg" alt=""></button>
+                     <button class="cancel" ><img src="images/icon-remove-item.svg" alt=""></button>
                  </div>
              `;
          listCartHTML.appendChild(newCart);
